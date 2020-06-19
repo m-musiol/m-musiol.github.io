@@ -5,9 +5,9 @@ Der Wüstenplanet Arrakis oder „Dune“ ist der Planet, auf dem Gewürz produz
 
 ## Eigenschaften des Planeten
 
-- Temperatur: heiß
-- Klima: trocken
-- Einwohner: Fremen
-- Flora: Gewürz
-- Fauna: Sandwürmer
-- Haus: Atreides
+* Temperatur: heiß
+* Klima: trocken
+* Einwohner: Fremen
+* Flora: Gewürz
+* Fauna: Sandwürmer
+* Haus: Atreides
