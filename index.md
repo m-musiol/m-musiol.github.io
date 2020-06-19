@@ -10,3 +10,4 @@ Der Wüstenplanet Arrakis oder „Dune“ ist der Planet, auf dem Gewürz produz
 - Einwohner: Fremen
 - Flora: Spice
 - Fauna: Sandwürmer
+- Haus: Atreides
